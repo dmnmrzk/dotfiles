@@ -1,0 +1,9 @@
+set number
+syntax on
+set autoindent
+set expandtab tabstop=4 shiftwidth=4
+set ruler rulerformat=%=%h%m%r%w\ %(%c%V%),%l/%L\ %P
+set backspace=2
+set cursorline
+filetype indent on
+set nocompatible
