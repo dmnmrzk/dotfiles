@@ -14,7 +14,7 @@
     foreground_color = "#e6e1dc"
     icon_bell = False
     show_titlebar = False
-    font = Terminus 14
+    font = Terminus 10
     background_color = "#2b2b2b"
     allow_bold = False
 [layouts]
